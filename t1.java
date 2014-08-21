@@ -1,5 +1,5 @@
 public class t1{
  public static void main(String args[]){
-     ///okay
+    System.out.println("hello");
   }
 }
